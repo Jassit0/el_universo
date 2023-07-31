@@ -1,5 +1,5 @@
 # El_universo
-This is my code for my website about space, made in HTML and CSS.
+This is my code for my website about space, made in HTML and CSS. The language in which I wrote the web page is Spanish.
 
 ## Introduction
 The following code is the result of the knowledge acquired in HTML and CSS during the Tecnolochicas Bootcamp 2023. The theme is the universe, so the objective of the page was for scientific education purposes.
