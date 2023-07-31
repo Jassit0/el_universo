@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+    background-color:#171717 ;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+.nave{
+    display: flex;
+    margin-right: 10px;
+}
+
+.logo{
+    margin-left: 30px;
+}
+
+.logo a{
+    color: #fff;
+    text-transform: uppercase ;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.nave a{
+    display: block;
+    padding: 20px 20px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.nave a:hover {
+    background-color:#3f3f3f;
+}
+
+.header{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    height: 100vh !important;
+    background: url(https://besthqwallpapers.com/Uploads/25-12-2016/11484/thumb2-planet-explosion-universe-stars-galaxy.jpg) no-repeat;
+    background-size: cover;
+}
+
+.title{
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 50px;
+}
+
+p{
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: #fff;
+    padding: 0 100px ;
+}
+
+
+
+.title2{
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: yellow;
+    margin-top: 50px;
+}
+
+p{
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: white;
+    padding: 0 100px ;
+}
+
+
+.ss{
+    width: 500px;
+
+}
+
+.title3{
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: yellow;
+    margin-top: 50px;
+}
+
+
+.title4{
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: yellow;
+    margin-top: 50px;
+}
+
+
+.btn{
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid yellow;
+    color: #fff;
+    text-decoration: none;
+    background: orangered;
+}
+
+
+.content{
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro-medio{
+    padding: 100px;
+    background: #1f1d1d;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.box-container .box{
+    height: 11rem;
+    width: 17rem;
+    background: black; 
+    text-align: center;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 5rem rgb(0, 0, 0, .5);
+    margin: 2rem;
+    font-size: 2rem;
+}
+
+.box-container .box h3{
+    font-size: 20px;
+    color: orange;
+    margin-top: 10%;
+}
+
+.box-container .box p{
+    font-size: 15px;
+    padding:0px 10px;
+    margin-top: 5%;
+}
+
+.about{
+    background: #171717;
+    height: 1800px;
+}
+
+.price{
+    background:url(https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80) no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+}
+
+.contact{
+    padding-top: 30px;
+    background: #171717;
+    padding-bottom: 20px;
+    height: 150px;
+}
+
+
+.contact{
+    margin-bottom: 40px;
+    font-size: 30px;
+    font-weight: 600px;
+    color: rgb(113, 191, 255);
+}
+
+
+
+
+
